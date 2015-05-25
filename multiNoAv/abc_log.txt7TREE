@@ -1,0 +1,7 @@
+Mark tasks with intent ids
+msg:1==> Source:2  target:1  Parent:0  Depth:-1  Tree of:1  id:0  component:null  state:null
+msg:2==> Source:2  target:1  Parent:0  Depth:-1  Tree of:2  id:0  component:null  state:null
+msg:3==> Source:2  target:1  Parent:0  Depth:-1  Tree of:3  id:1091031128  component:MainActivity  state:RESUME-ACT
+msg:4==> Source:3  target:1  Parent:0  Depth:-1  Tree of:4  id:0  component:null  state:null
+msg:5==> Source:1  target:1  Parent:3  Depth:-2  Tree of:3  id:1091031128  component:MainActivity  state:RESUME-ACT
+msg:6==> Source:1  target:-1  Parent:3  Depth:-1  Tree of:-1  id:0  component:null  state:null
